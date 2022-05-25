@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "523313958205",
+    "firebase_url": "https://tryfirebase-2c389.firebaseio.com",
+    "project_id": "tryfirebase-2c389",
+    "storage_bucket": "tryfirebase-2c389.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:523313958205:android:9d8eafde5519978de54954",
+        "android_client_info": {
+          "package_name": "com.example.camera_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "523313958205-l09g9vvaq57t2u32cfoeuc9t2rgk58uj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANL6AZceyIVocO-qgORGVMQ4TRm9wA6T0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "523313958205-l09g9vvaq57t2u32cfoeuc9t2rgk58uj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:523313958205:android:a3a4cd73a70a4128e54954",
+        "android_client_info": {
+          "package_name": "com.pranayjangid.alemeno_task"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "523313958205-l09g9vvaq57t2u32cfoeuc9t2rgk58uj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANL6AZceyIVocO-qgORGVMQ4TRm9wA6T0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "523313958205-l09g9vvaq57t2u32cfoeuc9t2rgk58uj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
